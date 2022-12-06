@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.self.files.git","l":"fileopsEX"},{"p":"com.self.files.git","l":"game1"},{"p":"com.self.files.git","l":"RockPaperScissorGame"}];updateSearchResults();
